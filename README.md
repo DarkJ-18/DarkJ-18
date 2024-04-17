@@ -1,14 +1,12 @@
 <h1 align="center">Hola 👋, soy Juan Camilo</h1>
 <h3 align="center">Desarrollador apasionado de páginas web con experiencia en PHP, bases de datos y HTML. Actualmente explorando Laravel y Python. Aquí encontrarás proyectos que he creado durante mis estudios, desde ejercicios de clase hasta aplicaciones web. ¡Bienvenido/a a mi repositorio!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darkj-18" alt="darkj-18" /></a> </p>
-
-- 📫 Cómo contactarme **j.juancamilojurado@gmail.com**<
+- 📫 Cómo contactar conmigo **j.juancamilojurado@gmail.com**<
 
 h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/darkj22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darkj22" height="30" width="40" /></a>
-<a href="https://instagram.com/dark_.j" target="blank"><img align="center" src=" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dark_.j" height="30" width="40" /></a>
+<a href="https://instagram.com/dark_.j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dark_.j" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
