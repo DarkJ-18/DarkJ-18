@@ -25,8 +25,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darkj-18&show_icons=true&locale=en&layout=compact" alt="darkj-18" style="margin: 0 10px;">
 </div>
 
-<p>&nbsp;</p>
-
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=darkj-18&show_icons=true&locale=en" alt="darkj-18">
 </p>
