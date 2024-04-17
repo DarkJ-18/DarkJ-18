@@ -9,7 +9,7 @@
 
 💬 Pregúntame sobre **PHP,MYSQL**-
 
-📫 Cómo contactarme **j.juancamilojurado@gmail.com**<
+📫 Cómo contactarme **j.juancamilojurado@gmail.com**
 
 <h3 align="left">Conéctate conmigo:</h3><p align="left">
 
