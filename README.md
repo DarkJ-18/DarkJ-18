@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkj-18&label=Profile%20views&color=0e75b6&style=flat" alt="darkj-18" />
 
-- 🌱 Actualmente estoy aprendiendo **Laravel,Python**-
+🌱 Actualmente estoy aprendiendo **Laravel,Python**
 
-💬 Pregúntame sobre **PHP,MYSQL**-
+💬 Pregúntame sobre **PHP,MYSQL**
 
 📫 Cómo contactarme **j.juancamilojurado@gmail.com** 
 <h3 align="left">Conéctate conmigo:</h3><p align="left">
