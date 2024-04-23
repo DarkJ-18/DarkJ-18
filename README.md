@@ -8,7 +8,7 @@
 <div align="center">
 🌱 Actualmente estoy aprendiendo **Laravel,Python**
 
-💬 Pregúntame sobre **PHP,MYSQL,LARAVEL**
+💬 Pregúntame sobre **PHP,MYSQL**
 
 📫 Cómo contactarme **j.juancamilojurado@gmail.com** 
 </div>
