@@ -3,11 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkj-18&label=Profile%20views&color=0e75b6&style=flat" alt="darkj-18" />
 
-🌱 Actualmente estoy aprendiendo **Laravel,Python**
+<div class="center">
+    🌱 Actualmente estoy aprendiendo **Laravel,Python**
 
 💬 Pregúntame sobre **PHP,MYSQL**
 
 📫 Cómo contactarme **j.juancamilojurado@gmail.com** 
+</div>
+
+
 <h3 align="center">Conéctate conmigo:</h3><p align="left">
 <div align="center">
 <a href="https://linkedin.com/in/darkj22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darkj22" height="30" width="40" /></a>
