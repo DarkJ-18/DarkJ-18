@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkj-18&label=Profile%20views&color=0e75b6&style=flat" alt="darkj-18" />
 
-<div aling="center">
-    🌱 Actualmente estoy aprendiendo **Laravel,Python**
+<div align="center">
+🌱 Actualmente estoy aprendiendo **Laravel,Python**
 
 💬 Pregúntame sobre **PHP,MYSQL**
 
