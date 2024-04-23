@@ -1,12 +1,15 @@
 <h1 align="center">Hola 👋👽, soy Juan</h1>
 <h3 align="center">Desarrollador apasionado de páginas web con experiencia en PHP, bases de datos y HTML. Actualmente explorando Laravel y Python. Aquí encontrarás proyectos que he creado durante mis estudios, desde ejercicios de clase hasta aplicaciones web. ¡Bienvenido/a a mi repositorio!</h3>
 
+<div>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkj-18&label=Profile%20views&color=0e75b6&style=flat" alt="darkj-18" />
+    </div>
+</div>
 
 
 <div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darkj-18&label=Profile%20views&color=0e75b6&style=flat" alt="darkj-18" />
-    </div>
+
 🌱 Actualmente estoy aprendiendo **Laravel,Python**
 
 💬 Pregúntame sobre **PHP,MYSQL**
