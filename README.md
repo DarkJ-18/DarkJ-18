@@ -64,7 +64,9 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/DarkJ-18/DarkJ-18/output/snake.svg" alt="Snake animation" />
 
+###
 
 
 
