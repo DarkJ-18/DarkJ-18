@@ -57,7 +57,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/{nombre de usuario}/{nombre de usuario}/salida/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
 
 ###
 
