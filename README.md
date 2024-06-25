@@ -64,7 +64,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DarkJ-18/DarkJ-18/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/DarkJ-18/DarkJ-18/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
