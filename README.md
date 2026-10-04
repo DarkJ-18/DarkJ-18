@@ -203,22 +203,12 @@ Descripción breve del proyecto.
   />
 </p>
 
+## 🔥 Racha de contribuciones
+
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=DarkJ-18&theme=dracula&hide_border=true"
-    height="165"
     alt="Racha de contribuciones"
-  />
-</p>
-
----
-
-## 📈 Actividad reciente
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=DarkJ-18&theme=dracula&hide_border=true"
-    alt="Gráfico de actividad de GitHub"
   />
 </p>
 
